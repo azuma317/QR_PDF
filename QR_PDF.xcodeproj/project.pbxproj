@@ -13,6 +13,7 @@
 		75ECF78F2258B95E00F8E551 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75ECF78E2258B95E00F8E551 /* Assets.xcassets */; };
 		75ECF7922258B95E00F8E551 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75ECF7902258B95E00F8E551 /* LaunchScreen.storyboard */; };
 		75ECF79A2258BC0200F8E551 /* Sample.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 75ECF7992258BC0100F8E551 /* Sample.pdf */; };
+		75ECF79C2258C60E00F8E551 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 75ECF79B2258C60E00F8E551 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		75ECF7912258B95E00F8E551 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		75ECF7932258B95E00F8E551 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		75ECF7992258BC0100F8E551 /* Sample.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Sample.pdf; sourceTree = SOURCE_ROOT; };
+		75ECF79B2258C60E00F8E551 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		75ECF77B2258B95C00F8E551 = {
 			isa = PBXGroup;
 			children = (
+				75ECF79B2258C60E00F8E551 /* README.md */,
 				75ECF7862258B95C00F8E551 /* QR_PDF */,
 				75ECF7852258B95C00F8E551 /* Products */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				75ECF79A2258BC0200F8E551 /* Sample.pdf in Resources */,
 				75ECF7922258B95E00F8E551 /* LaunchScreen.storyboard in Resources */,
+				75ECF79C2258C60E00F8E551 /* README.md in Resources */,
 				75ECF78F2258B95E00F8E551 /* Assets.xcassets in Resources */,
 				75ECF78D2258B95C00F8E551 /* Main.storyboard in Resources */,
 			);
