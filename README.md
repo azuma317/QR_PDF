@@ -1,6 +1,7 @@
 # QR_PDF
 
 QRコードを自動生成して、PDFとしてまとめるアプリ。
+PDFなのでiPhoneから直接印刷もできる。
 
 ## 自動生成後のPDF
 <img src="https://github.com/azuma317/QR_PDF/blob/master/image/1.png" width="300">
